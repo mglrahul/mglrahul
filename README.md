@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on javascipts projects
+- 🔭 I’m currently working on javascript projects
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on js projects
 
